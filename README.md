@@ -1,9 +1,11 @@
 # MyDataScienceProject
-This is my data science repo that will contain my current projects in datas science. 
-##
+# INSIGHTS ON MY FIRST DATA SCIENCE PROJECT 
+## 
 In this project I gathered data from a liable source. 
-I first arranged my data in a simple form. made sure I was getting my figures right. 
-Got the total number of times the prison Escape took place and also which country have the highest prison helicopter escapes. 
+* First arranged my data in a simple form. 
+* Made sure I was getting my figures right. 
+* Got the total number of times the prison Escape took place and 
+* Selected the country's with highest escapees in a descending order. 
 ##
 # Takeaway
   Special thanks to Data quest and Dev_careers for given me this opportunity.  It wss not easy, but I did it. the main aim for this project 
